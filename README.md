@@ -37,6 +37,8 @@ Figure -02 HALF Subtractor
 
 
 ![IMG-20241105-WA0018 1](https://github.com/user-attachments/assets/c71de08c-9d48-4fda-a565-566635803b02)
+
+
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -67,10 +69,12 @@ endmodule
 
 
 **RTL Schematic**
+
 ![ex_3](https://github.com/user-attachments/assets/9a255c20-8a0e-4bf8-a237-722b6c156538)
 
 
 **Output/TIMING Waveform**
+
 ![Screenshot 2024-11-05 080912](https://github.com/user-attachments/assets/01c2395d-5840-461f-a112-c9c93f749bd9)
 
 
